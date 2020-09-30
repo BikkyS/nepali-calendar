@@ -18,7 +18,7 @@ nepaliconv -bs -f "y.m.d"
 nepaliconv -ad 2072.0925
 ```
 
-To display help and learn about other options, use a ```-h``` option.
+To display, help and learn about other options, use a ```-h``` option.
 
 ## Installing
 Checkout the latest sources:
